@@ -1,5 +1,5 @@
 LISTADO DE ALUMNOS
 ==================
-Abel Garcia
+Abel
 Daniel Coloma
 Pablo Hallado
